@@ -4,17 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65943012-99a0-4b0a-837d-fa4039bf33fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="65943012-99a0-4b0a-837d-fa4039bf33fb" name="Changes" comment="SplitWiseLogic nLogn">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/scaler/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/scaler/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/scaler/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/scaler/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/scaler/service/SplitExpenses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dev/scaler/service/SplitExpenses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PravallikaGit23"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PravallikaGit23/splitwiseLogic.git",
+    "accountId": "2b9fc27a-c147-4f7c-a2d1-ff9db5e6d4d7"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -26,9 +48,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/Pravallika/IdeaProjects/Spilitwise/src/main/java/dev/scaler/Main.java",
     "vue.rearranger.settings.migration": "true"
@@ -50,22 +77,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738413492515</updated>
-      <workItem from="1738413493623" duration="7000" />
+      <workItem from="1738413493623" duration="4339000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/dev/scaler/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SplitWiseLogic nLogn" />
+    <option name="LAST_COMMIT_MESSAGE" value="SplitWiseLogic nLogn" />
   </component>
 </project>
